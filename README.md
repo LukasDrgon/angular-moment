@@ -7,6 +7,7 @@ Copyright (C) 2013, 2014, 2015, 2016, 2017, Uri Shaked <uri@urish.org>
 
 [![Build Status](https://travis-ci.org/urish/angular-moment.png?branch=master)](https://travis-ci.org/urish/angular-moment)
 [![Coverage Status](https://coveralls.io/repos/urish/angular-moment/badge.png)](https://coveralls.io/r/urish/angular-moment)
+[![jsDelivr Hits](https://data.jsdelivr.com/v1/package/npm/angular-moment/badge?style=rounded)](https://www.jsdelivr.com/package/npm/angular-moment)
 
 ### Angular 2.x / 4.x version is now available: [angular2-moment](https://github.com/urish/angular2-moment)
 
